@@ -1,2 +1,2 @@
-# LSTM-Forcast
-LSTM for sequence prediction
+# LSTM_Sequence_prediction
+LSTM Sequence prediction
